@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.App-footer {
+  padding: 10px;
+  background: linear-gradient(to right, teal, blue);
+  color: white;
+  text-align: center;
+}
